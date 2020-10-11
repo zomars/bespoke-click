@@ -40,7 +40,7 @@
     "karma-coverage": "^0.1.5",
     "karma-jasmine": "^0.1.5",
     "karma-phantomjs-launcher": "^0.1.4",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.20",
     "vinyl-buffer": "0.0.0",
     "vinyl-map": "^1.0.1",
     "vinyl-source-stream": "^0.1.1"
